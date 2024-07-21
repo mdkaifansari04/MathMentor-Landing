@@ -1,89 +1,97 @@
-# Solid - Free Next.js Web Template and Starter Kit for SaaS
+# MathMentor - AI-Powered Math Learning Platform
 
-Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. It provides an extensive array of necessary sections, elements, and pages required to build a fully-equipped website for any SaaS, software, or startup site. Comes with all cutting edge React and Next.js features - **Built with Next.js 13, React 18 and TypeScript.**
+MathMentor is a cutting-edge platform designed to help students master math with personalized AI-driven solutions. Built with the latest technologies, it provides interactive tools and resources for an enhanced learning experience. **Developed with Next.js 13, React 18, and TypeScript.**
 
-This Next.js template's homepage comes with an awesome hero area, logos of associated brands, a features section, an about section, another features section with tabs, counters, and star ratings, integration options, clear call-to-actions, an FAQ section with accordions, a testimonials section, pricing tables, a contact page, a blog, and a distinctive footer.
+This template features an engaging homepage, comprehensive sections for various math topics, interactive tools, and a robust AI system to assist users in solving complex problems. It includes essential pages and components necessary for creating a feature-rich educational platform.
 
-**Solid Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
+**MathMentor Template includes:**
 
-### [🔥 Get Solid Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
+- Interactive hero section
+- Subject-specific features and tools
+- Personalized learning experience
+- Real-time problem-solving capabilities
+- Detailed FAQs and testimonials
+- User-friendly contact page and more
 
-![Startup Pro](https://uideck.com/wp-content/uploads/edd/2023/07/solid-saas.png)
+### [🔥 Explore MathMentor Pro - AI-Powered Math Learning Solution](https://nextjstemplates.com/templates/mathmentor)
 
-### [🚀 Solid PRO Live Demo](https://solid.nextjstemplates.com/)
+![MathMentor Pro](https://example.com/path/to/mathmentor-image.png)
 
-### [🚀 Solid FREE Live Demo](https://solid-free.nextjstemplates.com/)
+### [🚀 MathMentor PRO Live Demo](https://mathmentor.nextjstemplates.com/)
 
-### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
+### [🚀 MathMentor FREE Live Demo](https://mathmentor-free.nextjstemplates.com/)
 
-#### [Solid PRO](https://solid.nextjstemplates.com/)
-- SaaS Boilerplate + Starter Kit with Essential Integrations and Functionalities
-- Essential Integrations: Auth, DB, Stripe, MDX and More ...
-- Fully Functional, Ready to Use Sanity Blog Support
-- Premium Email Support
-- Functional External Pages
-- Free Lifetime Future Updates
-___
-#### [Solid FREE](https://solid-free.nextjstemplates.com/)
-- Only UI - Coded for Next.js
-- No Integrations
-- No Functional Blogging System
-- External Pages without Functions/Integrations
+### MathMentor Pro vs MathMentor Free Comparison 📊
+
+#### [MathMentor PRO](https://mathmentor.nextjstemplates.com/)
+
+- AI-Driven Math Assistance with Advanced Features
+- Real-Time Problem Solving and Interactive Tools
+- Personalized Learning Experience
+- Premium Support and Advanced Customizations
+- Comprehensive Documentation and Future Updates
+
+---
+
+#### [MathMentor FREE](https://mathmentor-free.nextjstemplates.com/)
+
+- Basic Math Assistance with Core Features
+- Limited Tools and Customizations
 - Community Support
 - Free Lifetime Future Updates
-___
 
-### [📦 Download](https://nextjstemplates.com/templates/solid)
+---
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/solid)
+### [📦 Download MathMentor](https://nextjstemplates.com/templates/mathmentor)
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+### [🔥 Get MathMentor Pro](https://nextjstemplates.com/templates/mathmentor)
+
+### [🔌 Documentation](https://nextjstemplates.com/docs/mathmentor)
 
 ### ⚡ Deploy Now
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fsolid-nextjs)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fmathmentor)
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/solid-nextjs)
-
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/mathmentor)
 
 ## Installation
 
-Here are the steps you need to follow to install the dependencies.
+Follow these steps to install and set up the MathMentor template:
 
-1.Download and extract the template from **Next.js Templates.**
+1. Download and extract the template from **Next.js Templates.**
 
-2.**cd** into the template directory then run this command to install all the dependencies
-    
-```bash
-    npm install
-```
-    
-or
-    
-```bash
-    yarn install
- ```
+2. **cd** into the template directory and run the following command to install all dependencies:
 
+   ```bash
+   npm install
+   ```
 
-You can start the project on the local server
-    
-```bash
-    npm run dev
- ```
+   or
 
-It’ll start the template on [localhost:3000](http://localhost:3000). 
+   ```bash
+   yarn install
+   ```
 
-The documentation includes all the guides you need for the integrations. 
+3. Start the project on the local server:
 
+   ```bash
+   npm run dev
+   ```
+
+   The template will start on [localhost:3000](http://localhost:3000).
+
+   Documentation is included to guide you through integrations and customizations.
 
 ### Deploying on PaaS
 
-If you are using a GitHub repo then you can go with free-of-cost and easy-to-use options like [Vercel](https://vercel.com/), or [Netlify](https://netlify.com/) they offer decent-free tiers for Next.js hosting.
+For deploying your MathMentor project, consider using free and easy-to-use platforms like [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/), both offering excellent support for Next.js applications.
 
 ### 📄 License
-Solid Free is 100% free and open-source, feel free to use with your personal and commercial projects.
+
+MathMentor Free is 100% free and open-source. Feel free to use it for personal and commercial projects.
 
 ### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+
+If you find MathMentor useful, please star this repository to encourage our team to create more valuable tools and reach more users like you!
 
 ### ✨ Browse and Download - Best Free [Next.js Templates](https://nextjstemplates.com/templates)
