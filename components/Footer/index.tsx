@@ -82,7 +82,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="#feature"
+                        href="/#features"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Feature
@@ -156,7 +156,7 @@ const Footer = () => {
                     </li> */}
                     <li>
                       <a
-                        href="#"
+                        href="/contact"
                         className="mb-3 inline-block hover:text-primary"
                       >
                         Contact Us
