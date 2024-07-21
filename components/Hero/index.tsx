@@ -29,8 +29,7 @@ const Hero = () => {
               <p>
                 MathMentor - Equipped with all the tools you need for mastering
                 math, including - Step-by-Step Solutions, Concept Explanations,
-                Interactive Graphs, User-Friendly Interface, and More. Powered
-                by - AI, React 18, and TypeScript.
+                Interactive Graphs, User-Friendly Interface, and More.
               </p>
 
               <div className="mt-10">
