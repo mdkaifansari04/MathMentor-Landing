@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 import { cn } from "@/lib/utils";
 import ThemeToggler from "./ThemeToggler";
-import menuData from "./menuData";
+import menuData, { APP_URL } from "./menuData";
 
 const Header = () => {
   const [navigationOpen, setNavigationOpen] = useState(false);
@@ -146,9 +146,8 @@ const Header = () => {
             >
               GitHub Repo 🌟
             </Link> */}
-
             <Link
-              href="https://nextjstemplates.com/templates/solid"
+              href={APP_URL}
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Sign in

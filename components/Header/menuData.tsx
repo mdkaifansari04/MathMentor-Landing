@@ -76,4 +76,6 @@ const menuData: Menu[] = [
   },
 ];
 
+export const APP_URL = "https://math-mentor-nine.vercel.app";
+
 export default menuData;

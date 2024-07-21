@@ -1,6 +1,8 @@
 "use client";
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
+import { APP_URL } from "../Header/menuData";
 
 const Hero = () => {
   const [email, setEmail] = useState("");
@@ -33,12 +35,14 @@ const Hero = () => {
 
               <div className="mt-10">
                 <div className="flex flex-wrap gap-5">
-                  <button
-                    aria-label="get started button"
-                    className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
-                  >
-                    Get Started
-                  </button>
+                  <Link href={APP_URL}>
+                    <button
+                      aria-label="get started button"
+                      className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
+                    >
+                      Get Started
+                    </button>
+                  </Link>
                 </div>
                 <p className="mt-5 text-black dark:text-white">
                   Try for free no credit card required.
