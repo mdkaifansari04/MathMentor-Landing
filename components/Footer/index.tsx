@@ -70,7 +70,6 @@ const Footer = () => {
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
                     Quick Links
                   </h4>
-
                   <ul>
                     <li>
                       <a
